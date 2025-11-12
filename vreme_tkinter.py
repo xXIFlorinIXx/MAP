@@ -8,7 +8,7 @@ def obtine_vreme():
         messagebox.showwarning("ATENTIE","Te rog sa introduci un nume de oras")
         return
 
-    API_KEY = "9bb11d0a759faf639b8473c3b55dfb49"
+    API_KEY = "xxx"
     URL = "https://api.openweathermap.org/data/2.5/weather"
     parametrii ={
         "q" : oras,
@@ -36,7 +36,7 @@ def obtine_vremea_in_fisier():
     if not oras:
         messagebox.showwarning("ATENTIE","Te rog sa introduci un nume de oras")
         return
-    API_KEY = "9bb11d0a759faf639b8473c3b55dfb49"
+    API_KEY = "xxx"
     URL = "https://api.openweathermap.org/data/2.5/weather"
     parametrii ={
         "q" : oras,
