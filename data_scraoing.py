@@ -36,7 +36,7 @@ def afisare_totala():
         fisier.write(contiunt_html)
         # print(r.text)
 
-#afisare_totala()
+#afisare_totala() 
 
 def pret_emag():
     pret_de_referinta = 9980

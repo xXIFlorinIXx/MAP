@@ -1,1 +1,2 @@
-https://www.emag.ro/telefon-mobil-apple-iphone-17-pro-max-1tb-5g-cosmic-orange-mfyw4zd-a/pd/D599FV3BM/?ref=fam#1-TB
+
+root.geometry("500x450")

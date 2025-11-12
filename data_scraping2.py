@@ -41,5 +41,5 @@ def intro_stire():
     intro = soup.find('p', attrs={'class':'article-intro'}).text
     return intro
 
-send_email()s
+send_email()
 afisare_totala()
